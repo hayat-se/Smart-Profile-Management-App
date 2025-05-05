@@ -1,5 +1,4 @@
-# internship_task_app
-
+# Smart Profile Management App
 A new Flutter project.
 
 ## Getting Started
